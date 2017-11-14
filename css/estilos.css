@@ -12,7 +12,8 @@ header {
 }
 
 #contenido {
-	margin: 1%;
+	text-align: center;
+margin: 100px;
 }
 
 header h1 {
@@ -26,4 +27,16 @@ footer {
 	padding-top: 1vw;
 	margin-top: 1vw;
 	text-align: center;
+}
+img{
+	width: 420px;
+}
+#imagen1{
+	transform: rotate(7deg);
+}
+#imagen2{
+	transform: rotate(90deg);
+	}
+#imagen3{
+	transform: rotate(-10deg);
 }
